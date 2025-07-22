@@ -7,7 +7,7 @@
  * greet("Hamza") logs "Hello Hamza"
  */
 function greet(name: string): void {
-  // Your code here
+  // Your code here2
 }
 
 /**
